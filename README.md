@@ -6,7 +6,7 @@ A human-in-the-loop harness for scientific reasoning with Codex or Claude Code a
 
 ## Recorded runs
 
-[Browse the eight runs](https://ostarkovsn.github.io/verifiable-cyber-science/traces/) or download the repository and open [traces/index.html](traces/index.html). Each run has JSON and HTML containing the task, messages and tool activity, produced Lean code and feedback. Accepted submissions show `accepted`. Article references use DOI links; PDFs are not included.
+[Browse the eight runs](https://theorchemgroup.github.io/Self-verifiable_CyberScientist/traces/) or download the repository and open [traces/index.html](traces/index.html). Each run has JSON and HTML containing the task, messages and tool activity, produced Lean code and feedback. Accepted submissions show `accepted`. Article references use DOI links; PDFs are not included.
 
 The [trace format and export command](traces/README.md) describe how to generate the same views from saved run records.
 

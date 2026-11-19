@@ -1,6 +1,6 @@
 # Agent traces
 
-[Browse the runs](index.html) locally or use the [web viewer](https://ostarkovsn.github.io/verifiable-cyber-science/traces/). Each task has a Codex run and a Claude Code run, available as JSON and HTML.
+[Browse the runs](index.html) locally or use the [web viewer](https://theorchemgroup.github.io/Self-verifiable_CyberScientist/traces/). Each task has a Codex run and a Claude Code run, available as JSON and HTML.
 
 Each run JSON has these fields:
 
